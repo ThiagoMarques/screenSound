@@ -1,0 +1,14 @@
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\bin\Debug\net7.0\PrimeiroProjeto_.exe
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\bin\Debug\net7.0\PrimeiroProjeto_.deps.json
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\bin\Debug\net7.0\PrimeiroProjeto_.runtimeconfig.json
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\bin\Debug\net7.0\PrimeiroProjeto_.dll
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\bin\Debug\net7.0\PrimeiroProjeto_.pdb
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.AssemblyInfoInputs.cache
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.AssemblyInfo.cs
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.csproj.CoreCompileInputs.cache
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.dll
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\refint\PrimeiroProjeto_.dll
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.pdb
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\PrimeiroProjeto_.genruntimeconfig.cache
+C:\Users\thiagosmarques\source\repos\PrimeiroProjeto_\PrimeiroProjeto_\obj\Debug\net7.0\ref\PrimeiroProjeto_.dll
