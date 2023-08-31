@@ -1,3 +1,4 @@
 # screenSound
 ScreenSoundBasic: Projeto realizado em C# (Vers. 7) para fixação de conceitos iniciais com C#. Neste projeto, foi estudado reutilização de código, estruturas de repetição, dicionário e métodos particulares para resolução de problemas de baixa complexidade como 'average' para cálcular a média de itens de uma lista.
 ScreenSoundOO: Projeto realizado em C# (Vers. 7) para fixação de Orientação a Objetos, exploraram-se aspectos como a gestão da visibilidade de métodos, a identificação de atributos e propriedades, o uso de expressões lambda e a implementação de construtores.
+ScreenSoundOO - 2: Projeto realizado em C# (Vers. 7) para fixação de Orientação a Objetos e boas práticas, conceitos de orientação a objetos (herança, interface, arquitetura de pastas, namespaces e otimização de código). Integração com a biblioteca para uso de inteligência artificial.
